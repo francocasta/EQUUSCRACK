@@ -6,54 +6,55 @@ EquusCrack – Proyecto de App para Caballos de Carrera (SPC)
 
 Descripción general:
 
-EquusCrack será una app móvil pensada para propietarios, entrenadores y profesionales del mundo del turf, enfocada en el análisis y desarrollo del potencial de caballos sangre pura de carrera (SPC). La finalidad de la app es colaborar con aquellos entrenadores, propietarios y/o profesionales del turf para lograr un mejor rendimiento deportivo de sus atletas equinos.
+EquusCrack será una app móvil pensada para propietarios, entrenadores y profesionales del mundo del turf, enfocada en el análisis y desarrollo del potencial de caballos sangre pura de carrera (SPC). La finalidad de la app es colaborar con aquellos entrenadores, propietarios y/o profesionales del turf para lograr un mejor rendimiento deportivo de sus atletas.
 
 
 
-Funciones principales:
+## EquusCrack: Innovación Absoluta para el Mundo del Turf
 
+El mundo del Sangre Pura de Carrera (SPC) y las carreras es uno de los rubros que más dinero mueve a nivel mundial y que genera una gran cantidad de empleos. Conscientes de la importancia y la pasión que este deporte despierta, **EquusCrack** nace como una solución tecnológica que se integrará fácilmente al universo de los caballos y sus aficionados.
 
+En un ámbito donde aún no existe una integración total de herramientas tecnológicas, **EquusCrack** se posiciona como una solución innovadora con vistas a futuro. Además de optimizar el rendimiento de los atletas equinos y mejorar la selección de ejemplares, esta app busca ser una plataforma de **formación y aprendizaje** para entrenadores y profesionales del turf, ayudando a formar una nueva generación de expertos en este apasionante mundo.
 
-1. Registro de Usuario:
+### **Características Destacadas**
+- **Evaluación Integral**: Uso de inteligencia artificial para análisis biomecánicos y morfológicos avanzados.
+- **Análisis Genético**: Evaluación de descendencia y linajes para identificar futuros cracks.
+- **Planificación Personalizada**: Entrenamientos, alimentación y sanidad adaptados a las necesidades del caballo y la región.
+- **Monitoreo Continuo**: Seguimiento del rendimiento y recomendaciones basadas en datos en tiempo real.
+- **Accesibilidad y Usabilidad**:
+  - Evaluación rápida y en tiempo real de los primeros datos del caballo.
+  - Disponible en tablets, laptops, celulares y otros dispositivos que tengan la app instalada.
 
-- Creación de cuenta con perfil según rol: propietario, entrenador, veterinario, etc.
+### **Impacto Positivo en el Mundo del Turf**
+- **Herramienta para profesionales**: EquusCrack está diseñada para colaborar de manera positiva con entrenadores, veterinarios y otros profesionales del turf, optimizando su trabajo y ayudándolos a obtener mejores resultados con los caballos bajo su cuidado.
+- **Recurso educativo**: Esta app ofrece una oportunidad única para quienes desean iniciarse en el mundo del turf. Los usuarios podrán aprender sobre la selección, manejo, entrenamiento y sanidad de caballos SPC, accediendo a información y herramientas prácticas que los guiarán en este apasionante camino.
 
-- Gestión de caballos por usuario.
+### **Un Avance en la Selección y Mejora Genética**
+- **Detección de futuros cracks**:
+  - EquusCrack ayuda a identificar caballos con el potencial de convertirse en atletas excepcionales, optimizando la selección en remates y ventas privadas.
+  - Proporciona herramientas para detectar características genéticas y físicas que definen a los grandes campeones.
+- **Potenciación de la genética**:
+  - Al integrar análisis genético y planes personalizados, la app maximiza el aprovechamiento del potencial genético de cada caballo, ayudando a alcanzar su máximo rendimiento como atleta.
 
+### **Un Plan Integral para el Éxito**
+EquusCrack acompaña a los caballos en cada etapa, desde su selección inicial hasta su entrenamiento y desempeño en competencias:
+- **Plan de adaptación inicial**: Diseñado para facilitar la transición del caballo a nuevas condiciones de manejo y entrenamiento.
+- **Planes específicos de entrenamiento y alimentación**:
+  - Ajustados a la distancia en la que el caballo se desempeñará (sprint, media o larga distancia).
+  - Basados en alimentos disponibles en la región o país del ejemplar, optimizando recursos locales.
+  - Uso de tablas actualizadas como NRC y otros materiales científicos para garantizar una dieta balanceada.
+  - Ofreciendo variedad de opciones según los recursos del cuidador.
+- **Plan sanitario continuo**: Calendarios personalizados para vacunación, desparasitación y controles veterinarios.
 
+### **Visión de Futuro**
+Con vistas a futuro, **EquusCrack** no solo será una herramienta para mejorar el rendimiento y la selección de caballos SPC, sino también un **pilar clave en la formación de nuevos entrenadores y profesionales** del turf. Este enfoque permitirá que las próximas generaciones de apasionados del deporte cuenten con los conocimientos y recursos necesarios para destacar en el mundo del SPC.
 
-2. Gestión de Caballos:
+### **Beneficios Clave**
+- **Optimización Total**: Decisiones basadas en datos científicos, genéticos y observaciones expertas.
+- **Practicidad y Accesibilidad**: Diseñado para ser intuitivo y adaptable a las necesidades de cada usuario.
+- **Resultados Comprobados**: Un enfoque científico que garantiza el mejor rendimiento de los caballos SPC.
 
-- Perfil individual de cada caballo (nombre, edad, sexo, criador).
-
-- Carga de pedigrí (manual o por imagen).
-
-- Subida de imágenes y videos (conformación, trote, galope).
-
-- Registro de datos físicos: altura, peso, longitud de caña, etc.
-
-
-
-3. Análisis Inteligente (IA y Visión por Computadora):
-
-- Evaluación automática de conformación mediante imágenes.
-
-- Análisis biomecánico del movimiento por video.
-
-- Predicción de distancias óptimas (sprint, media, fondo) según morfología y genética.
-
-- Reporte de perfil de rendimiento con sugerencias técnicas.
-
-
-
-4. Planificación Personalizada:
-
-- Plan de entrenamiento según edad, categoría y distancia objetivo.
-
-- Sugerencias de alimentación balanceada por etapa y tipo de trabajo.
-
-- Calendario de sanidad: vacunación, desparasitación y controles veterinarios.
-## Licencia
+EquusCrack es la herramienta definitiva para optimizar el rendimiento, la selección y el manejo de caballos de carrera, mientras inspira y educa a una nueva generación de aficionados y profesionales del turf. ¡El futuro del SPC está aquí!
 
 
 
