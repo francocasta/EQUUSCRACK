@@ -3,6 +3,7 @@ EquusCrack – Proyecto de App para Caballos de Carrera (SPC)
 
 
 
+
 Descripción general:
 
 EquusCrack será una app móvil pensada para propietarios, entrenadores y profesionales del mundo del turf, enfocada en el análisis y desarrollo del potencial de caballos sangre pura de carrera (SPC). La finalidad de la app es colaborar con aquellos entrenadores, propietarios y/o profesionales del turf para lograr un mejor rendimiento deportivo de sus atletas equinos.
@@ -52,6 +53,8 @@ Funciones principales:
 - Sugerencias de alimentación balanceada por etapa y tipo de trabajo.
 
 - Calendario de sanidad: vacunación, desparasitación y controles veterinarios.
+## Licencia
+
 
 
 
@@ -184,6 +187,8 @@ Icon?
 # Otros
 .idea/
 
+
+
 ## Buscamos Colaboradores 🚀
 
 ¿Te interesa ser parte de un proyecto emocionante? Estamos buscando desarrolladores apasionados para colaborar en el desarrollo de esta aplicación. 
@@ -201,11 +206,7 @@ Puedes contribuir de las siguientes maneras:
 1. Reportando errores o sugiriendo mejoras.
 2. Implementando nuevas funcionalidades.
 3. Revisando y mejorando el código existente.
-
-### ¿Cómo empezar?
-1. Haz un fork de este repositorio.
-2. Crea un Pull Request con tus cambios o sugerencias.
-3. Únete a las discusiones para compartir ideas.
+.
 
 Si tienes preguntas o estás interesado/a en colaborar, por favor, abre una discusión o un issue en este repositorio. ¡Nos encantaría saber de ti!
 
@@ -294,6 +295,9 @@ Si tienes preguntas o estás interesado/a en colaborar, por favor, abre una disc
 - **Inversión que vale la pena:** Alto retorno, impacto global y liderazgo en un mercado en crecimiento.
 
 ---
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia Apache 2.0. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
 
 ### Contacto
 - **Franco Castagnet**
