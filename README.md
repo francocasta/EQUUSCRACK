@@ -101,6 +101,87 @@ Objetivo final:
 
 Ofrecer una herramienta práctica, científica y accesible para mejorar la selección, planificación y rendimiento deportivo de los caballos SPC, aportando innovación al mundo del turf.
 
+# General
+.DS_Store
+Thumbs.db
 
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# Flutter
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.dart_tool/
+.idea/
+.vscode/
+*.iml
+
+# Firebase
+firebase-debug.log
+.firebaserc
+**/firebase-debug.log
+
+# Python (para IA y scripts de entrenamiento)
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.ipynb_checkpoints
+
+# Archivos de datos grandes (fotos, videos y modelos de IA)
+media/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Modelos de IA, checkpoints y datos
+models/
+*.h5
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+*.pt
+*.pth
+
+# Archivos de configuración sensibles
+*.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Archivos temporales y de respaldo
+*.bak
+*.tmp
+*.temp
+*.swp
+*.swo
+*.swn
+
+# macOS específicos
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Otros
+.idea/
 
 
