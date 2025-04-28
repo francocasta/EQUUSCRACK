@@ -1,11 +1,11 @@
 # EQUUSCRACK
-EqusCrack – Proyecto de App para Caballos de Carrera (SPC)
+EquusCrack – Proyecto de App para Caballos de Carrera (SPC)
 
 
 
 Descripción general:
 
-EqusCrack será una app móvil pensada para propietarios, entrenadores y profesionales del mundo del turf, enfocada en el análisis y desarrollo del potencial de caballos sangre pura de carrera (SPC). La finalidad de la app es colaborar con aquellos entrenadores, propietarios y/o profesionales del turf para lograr un mejor rendimiento deportivo de sus atletas equinos.
+EquusCrack será una app móvil pensada para propietarios, entrenadores y profesionales del mundo del turf, enfocada en el análisis y desarrollo del potencial de caballos sangre pura de carrera (SPC). La finalidad de la app es colaborar con aquellos entrenadores, propietarios y/o profesionales del turf para lograr un mejor rendimiento deportivo de sus atletas equinos.
 
 
 
