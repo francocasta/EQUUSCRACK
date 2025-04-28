@@ -188,7 +188,6 @@ Icon?
 .idea/
 
 
-
 ## Buscamos Colaboradores 🚀
 
 ¿Te interesa ser parte de un proyecto emocionante? Estamos buscando desarrolladores apasionados para colaborar en el desarrollo de esta aplicación. 
