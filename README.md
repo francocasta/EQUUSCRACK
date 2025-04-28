@@ -184,4 +184,30 @@ Icon?
 # Otros
 .idea/
 
+## Buscamos Colaboradores 🚀
 
+¿Te interesa ser parte de un proyecto emocionante? Estamos buscando desarrolladores apasionados para colaborar en el desarrollo de esta aplicación. 
+
+### ¿Qué ofrecemos?
+- **Créditos compartidos:** Tu nombre aparecerá como colaborador/a en las publicaciones oficiales de la app.
+- **Reconocimiento:** Serás reconocido/a en todas las promociones relacionadas con el rubro.
+- **Oportunidad de aprendizaje:** Trabajarás junto a otros desarrolladores en un proyecto real.
+
+### Publicación en tiendas de apps
+Una vez que la aplicación esté terminada, planeamos publicarla en las principales tiendas de aplicaciones (Google Play, App Store). ¡Tu contribución será una parte fundamental de este logro!
+
+### ¿Cómo puedes ayudar?
+Puedes contribuir de las siguientes maneras:
+1. Reportando errores o sugiriendo mejoras.
+2. Implementando nuevas funcionalidades.
+3. Revisando y mejorando el código existente.
+
+### ¿Cómo empezar?
+1. Haz un fork de este repositorio.
+2. Crea un Pull Request con tus cambios o sugerencias.
+3. Únete a las discusiones para compartir ideas.
+
+Si tienes preguntas o estás interesado/a en colaborar, por favor, abre una discusión o un issue en este repositorio. ¡Nos encantaría saber de ti!
+
+---
+¡Gracias por considerar ser parte de este proyecto! 💻✨
